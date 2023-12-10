@@ -1,0 +1,7 @@
+{
+  "name": "rolling-eyes-bakery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
